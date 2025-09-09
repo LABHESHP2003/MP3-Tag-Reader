@@ -92,6 +92,5 @@ This will generate the **`mp3tagreader`** executable.
 ---
 
 ## 👨‍💻 Author
-GitHub: @LABHESHP2003
-Developed as a learning project for **C programming, binary file handling, and metadata manipulation**.
-
+- GitHub: [@LABHESHP2003](https://github.com/LABHESHP2003)  
+- Developed as a learning project for **C programming, binary file handling, and metadata manipulation**.
